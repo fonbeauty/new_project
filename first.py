@@ -1,2 +1,2 @@
-def add_1_1():
-    return 1+1
+def add_3_3():
+    return 3+3
